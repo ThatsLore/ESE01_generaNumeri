@@ -1,0 +1,24 @@
+{
+  "name": "esgithub",
+  "version": "1.0.0",
+  "description": "Sito web che genera numeri casuali",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThatsLore/ESE01_generaNumeri.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ThatsLore/ESE01_generaNumeri/issues"
+  },
+  "homepage": "https://github.com/ThatsLore/ESE01_generaNumeri#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {}
+}
